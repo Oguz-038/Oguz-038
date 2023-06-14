@@ -9,8 +9,6 @@ I am 2nd year student at Necmettin Erbakan University Computer Engineering. I am
 
 <a href="https://www.github.com/Oguz-038" target="_blank" rel="noreferrer"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Oguz-038?color=gree&style=for-the-badge"></a> 
 
-![Profile Views](https://komarev.com/ghpvc/?username=<Oguz-038>)
-
 ### General Skills
 
 
